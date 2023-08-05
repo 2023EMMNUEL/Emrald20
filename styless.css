@@ -1,0 +1,73 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: rgb(253, 251, 251);
+    background-repeat: no-repeat;
+    
+}
+.pm{
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.tm{
+    margin-top: -990px;
+    margin-bottom: 100px;
+}
+.today{
+    margin-top: 200px;
+    margin-right: 5%;
+    margin-left: 5%;
+    
+}
+.today legend{
+    background-color: black;
+    color: white;
+    margin-right: 80%;
+    border-radius: 10px;
+}
+.today fieldset{
+    background-color: rgb(209, 207, 207);
+    margin-top:100px;
+    margin-bottom: 100px;
+}
+h1{
+    text-align: center;
+    background-color:rgb(88, 86, 86);
+    color: white;
+    height: 50px;
+    margin-top: -54px;
+
+}
+.am{
+    margin-top: 200px;
+    
+}
+.emm{
+    margin-bottom: -300px;
+    margin-top:50px ;
+}
+.joy{
+    margin-top:px;
+    margin-bottom: -200px;
+}
+.mtt{
+    margin-bottom: -100px;
+    margin-top:150px ;
+
+}
+.main-container{
+    margin-right: 5%;
+    margin-left: 5%;
+    border-style: none;
+    border-color: none;
+    font-family: sans-serif;
+}
+.main-container fieldset{
+    background-color: rgb(219, 214, 214);
+
+}
+.footer{
+    background-color: rgb(165, 160, 160);
+    margin-top: 10px;
+}
+
